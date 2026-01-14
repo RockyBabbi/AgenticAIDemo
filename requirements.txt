@@ -2,13 +2,3 @@ pip install langgraph langchain-openai langchain-core httpx requests duckduckgo-
 
 
 
-Setup the keys before running python script
-
-# Your Azure OpenAI endpoint
-export AZURE_OPENAI_ENDPOINT="https://your-resource-name.openai.azure.com/"
-
-# Your deployment name (created in Azure Portal)
-export AZURE_OPENAI_DEPLOYMENT_NAME="gpt-4o"
-
-# Your API key from Azure
-export AZURE_OPENAI_API_KEY="your-azure-api-key-here"
