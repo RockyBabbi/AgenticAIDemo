@@ -20,3 +20,6 @@ I’ve been experimenting with agentic AI patterns—moving beyond simple chatbo
 ⦁	Tool selection and execution orchestrated by LangGraph
 ⦁	Step-by-step visibility into reasoning and tool usage
 ⦁	Simple Google-style UI using Gradio
+
+
+<img width="1193" height="650" alt="image" src="https://github.com/user-attachments/assets/4da49710-a43f-4e8c-a6dc-38c51c8af9b2" />
